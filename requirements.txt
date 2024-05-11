@@ -1,0 +1,7 @@
+easyocr==1.7.1
+numpy==1.26.4
+opencv_python==4.9.0.80
+opencv_python_headless==4.9.0.80
+pandas==2.2.2
+scipy==1.13.0
+ultralytics==8.2.11
