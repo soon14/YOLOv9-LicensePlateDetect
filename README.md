@@ -65,7 +65,9 @@ then run `visualize.py` to get the video output
 ```bash
   python visualize.py
 ```
+## Screenshots
 
+![Screenshot 2024-05-11 223900](https://github.com/btwitssayan/YOLOv9-LicensePlateDetect/assets/92902129/9a50a1ec-f534-4901-a0e1-72392434bede)
 
 ## Documentation
 
