@@ -16,7 +16,11 @@ This project aims to develop a robust license plate detection system using compu
 # Model Used
 - YOLOv9 for vehicle and license plate detection 
 - Bytetrack for track vehicle though a video 
-- EasyOCR for get the licence plate 
+- EasyOCR for get the licence plate
+
+# Sample Video
+Video used in this Project.
+You can download from [here](https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/)
 
 
 ## Deployment
